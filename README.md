@@ -32,11 +32,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seong-Su187&layout=compact&theme=default" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seong-Su187&bg_color=ffffff&color=000000&line=36BCF7&point=36BCF7&area=true" alt="Activity Graph" />
     </td>
   </tr>
 </table>
