@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+박성수;Welcome+to+my+GitHub!" alt="Typing SVG" />
   <br>
   <!-- 여기에 업로드하신 GIF가 중앙에 들어갑니다 -->
   <img src="Character_appearing_in_farm_field_20261013190056.gif" width="600" alt="Farm Field Character" />
