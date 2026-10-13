@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+박성수;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <br>
+  <!-- 여기에 업로드하신 GIF가 중앙에 들어갑니다 -->
+  <img src="Character_appearing_in_farm_field_20261013190056.gif" width="600" alt="Farm Field Character" />
 </div>
+
+<br>
 
 사용자 친화적인 서비스를 만드는 데 관심이 많습니다. 
 새로운 기술을 배우고, 새롭게 직면하게 된 문제들을 해결하는 과정을 즐기며 풀어나가는 것을 좋아합니다!
